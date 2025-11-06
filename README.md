@@ -54,7 +54,7 @@
 
 ## 專案特色功能介紹
 *   與Google map大眾運輸規劃相比有什麼優勢?
-使用<font color="#FF0000">實際的即時公車資訊</font>搭配Google路徑規劃，可以避免Google導航上公車預計到站時間不準確的問題
+使用<font color="#FF0000">實際的即時公車資訊</font>搭配Google路徑規劃，可以避免Google導航上公車採用的「每日預計到站時間表」不準確的問題
 
 如下圖圖中紅色與紫色圈起的部分為Google提供的公車搭乘路線，可以看到google在圖2中預計<font color="#FF0000">17:04</font>分發車的<font color="#0000FF">900跳</font>實際上在政府的資料中並沒有發車。
 在這個情況下搭乘需等到<font color="#FF0000">17:14</font>分，但在相同的首末AB兩車站之間，其實也可以搭乘預計<font color="#FF0000">5分鐘後到站</font>的<font color="#0000FF">901</font>
