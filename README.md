@@ -68,7 +68,7 @@
 ## 如何建置
 
 1.  使用 Android Studio 開啟此專案。
-2.  local.properties用於填寫api key。
+2.  創建local.properties用於填寫api key。
 3.  填寫完成後即可直接建置。
 
 ## 注意事項
